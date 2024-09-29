@@ -27,7 +27,7 @@ This Project basically design for educational app ui.
 
 # GIF
 
-![Educational app UI](https://github.com/nitta02/educational_app_UI/assets/110607962/a534e85f-975a-4be6-8758-b1bd6f384110)
+![Educational app UI](images/educational.png)
 
 
 
